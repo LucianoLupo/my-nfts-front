@@ -10,7 +10,7 @@ const TWITTER_HANDLE = "LucianoLupoo";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const OPENSEA_LINK =
   "https://testnets.opensea.io/collection/randomnft-mjzg0xzjj8";
-const TOTAL_MINT_COUNT = 50;
+//const TOTAL_MINT_COUNT = 50;
 
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState("");
